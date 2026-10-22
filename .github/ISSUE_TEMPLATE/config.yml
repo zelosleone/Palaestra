@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Buy Palaestra
+    url: https://buy.polar.sh/polar_cl_KoRtqbSSRC7IHgbKQMr2QLvwqb5HylJauOESJ2ASZIH
+    about: A license key for Palaestra, $10 once.
+  - name: Manage your license and devices
+    url: https://polar.sh/lodestar-vscode/portal
+    about: Your key, your receipts, and the devices it is active on.
