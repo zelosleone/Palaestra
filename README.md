@@ -1,6 +1,6 @@
 # Palaestra
 
-Palaestra is a practice gym inside your editor, for interviews, exams and engineering. It works in VS Code, Cursor, Antigravity IDE, VSCodium and other VS Code forks, on the models you already have: Copilot Chat's in VS Code, or any model API with your own key (OpenRouter, OpenAI, Gemini, DeepSeek, Z.ai, Kimi, MiniMax, Command Code, Ollama Cloud, a local Ollama or LM Studio).
+Palaestra is a practice gym inside your editor, for interviews, exams and engineering. It works in VS Code, Cursor, Antigravity IDE, VSCodium and other VS Code forks, on the models you already pay for: Copilot Chat's in VS Code, your Cursor plan's in Cursor (through Cursor's CLI), your Google Antigravity plan's (through Antigravity's own server, signed in with Google), or any model API with your own key (OpenRouter, OpenAI, Gemini, DeepSeek, Z.ai, Kimi, MiniMax, Command Code, Ollama Cloud, a local Ollama or LM Studio).
 
 Install it from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=DenizhanDaklr.palaestra), or in Cursor, VSCodium and other forks from [Open VSX](https://open-vsx.org/extension/zelosleone/palaestra).
 
