@@ -2,6 +2,8 @@
 
 Palaestra is a practice gym inside your editor, for interviews, exams and engineering. It works in VS Code, Cursor, Antigravity IDE, VSCodium and other VS Code forks, on the models you already have: Copilot Chat's in VS Code, or any model API with your own key (OpenRouter, OpenAI, Gemini, DeepSeek, Z.ai, Kimi, MiniMax, Command Code, Ollama Cloud, a local Ollama or LM Studio).
 
+Install it from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=DenizhanDaklr.palaestra), or in Cursor, VSCodium and other forks from [Open VSX](https://open-vsx.org/extension/zelosleone/palaestra).
+
 You get 15 questions and 2 live coding rounds free. After that it costs $10, once, plus tax where your country charges it. No subscription: the key works on up to 10 of your devices and never expires. [Buy Palaestra ($10)](https://buy.polar.sh/polar_cl_KoRtqbSSRC7IHgbKQMr2QLvwqb5HylJauOESJ2ASZIH)
 
 ## Questions while you work
